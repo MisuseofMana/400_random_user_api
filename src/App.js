@@ -2,8 +2,6 @@ import React, {Component} from 'react';
 import User from './components/User'
 import './App.css';
 
-//comment to allow branch pull request
-
 class App extends Component {
   constructor (props){
     super (props);
